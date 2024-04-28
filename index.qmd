@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/headshot.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/trent-george10/
+    - icon: envelope
+      text: Email
+      href: "mailto:txg205@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome!
+
+My name is Trenton George (He/They). I am currently a psychometrist II at the Cleveland Clinic, as well as a student in Case Western Reserve University's Masters of Biostatistics program. This website will be used as a source all of things Trenton, and will be updated to include information regarding my employment, research interests/activities, as well as sharing other websites/blogs I find quite resourceful.
+
+To begin, my research interests spread quite widely, from neurology, to sports medicine, LBGTQ+ community health, taste pharmacology and so forth, with an analytical interest in machine learning within these different domains. I am open-minded in learning/researching other areas outside of my expertise to further grow and assist wherever I am able.
+
+My current area of research delves into neuropsychological disorders/diseases and understanding how to utilize cognitive assessments in order to better predict/pinpoint these disorders/diseases. Specifically, I have assisted in studies looking at pediatric epilepsy, as well as dementia studies all looking to assess neuropsychological functioning within these populations.
+
+Please feel free to [contact me](mailto:mail.trenton.george@case.edu) if you have any questions or would like to discuss potential projects.
+
+
+

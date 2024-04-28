@@ -1,0 +1,44 @@
+---
+title: "Blogs & Links"
+---
+
+Statistics are an ever-growing field and one that has been built up from community and working off one another. Below I will share my own thoughts and experiences regarding statistical topics an data analysis. At the very bottom I will share websites and blogs that I found quite useful and would like to "spread the wealth".
+
+----
+
+## Blog Posts
+
+### My Takeaways from Jeff Leek's "How to be a Modern Scientist"
+
+> Posted 2024-04-28
+
+  First off, I want to acknowledge that having a book like this available at a choose-your-own-price is wonderful. In an age where so much helpful information is continually put behind paywalls, a donation-based availability feels like fresh air. 
+
+  One topic Jeff Leek talks about that taught me quite a bit was starting on page 29 talking about open data sharing and then again regarding posting code/software packages. More specifically, Learning what steps to take to improve documentation of both data and packages. Taking steps to make data more easily accessible has had lasting effects on my own productivity, as well as can be quite beneficial for others'. Being able to have data, packages, portfolios, all at the ready and organized simply can shave away so much time and stress when trying to collaborate with other researchers for whatever reason. This also will have a lasting effect on reproduceability as well. Files and packages that are easy to set up leave more time for other data analysts to focus on how to better observe what's being researched. Thus more progress can be made. 
+
+  In my own experiences, re-structuring my folders and how I name all files has been an immense help when it comes to my own analyses. Along with that, cleaning up a function on a previous analysis makes it quicker to input the necessary code and spend more time trying to understand the observations/creating a sufficient model to answer my research questions.
+
+----
+
+## Links
+
+### On Machine Learning
+
+-[K-Means Clustering How-To](https://www.geeksforgeeks.org/k-means-clustering-in-r-programming/)
+
+-[K-Fold Cross-Validation](https://www.statology.org/k-fold-cross-validation-in-r/)
+
+-[Support Vector Machines](https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-r/)
+
+-[Random Forest in R Demo](https://www.r-bloggers.com/2021/04/random-forest-in-r/)
+
+-[Random Forest Explanation](https://www.simplilearn.com/tutorials/data-science-tutorial/random-forest-in-r)
+
+### On Bayesian Analysis
+
+-["What is Bayesian Analysis?"](https://bayesian.org/what-is-bayesian-analysis/)
+
+-[Bayesian Analysis in R by Marissa Barlaz, PhD ](https://marissabarlaz.github.io/portfolio/bayesian/)
+
+-[Bayesian Optimization through the Tidymodels package](https://www.hfshr.xyz/posts/2020-05-23-tidymodel-notes/)
+
